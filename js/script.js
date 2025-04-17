@@ -8,7 +8,7 @@ console.error("Fornisci USERNAME e controllo si hai accesso")
 const username = "saitama"
 console.log(username)
 
-const listAdmin = ["saitama", "genos", "king", "silverfung"]
+const listAdmin = ["saitama", "genos", "king", "silverfang"]
 
 let control = "non ha accesso"
 
