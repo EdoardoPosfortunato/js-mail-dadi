@@ -12,7 +12,7 @@ let max = 100;
 // let max = prompt("Dammi il Massimo");
 
 for (let i = 1; i <= numeroOggetti; i++) {
-    let numero = Math.floor((Math.random() * (max - min) + min + 1))
+    let numero = Math.floor((Math.random() * (max - min + 1) + min))
     randomArray.push(numero)
 }
 
@@ -34,3 +34,4 @@ for (let i = 0; i < randomArray.length; i++){
 }
 
 console.log(minimo);
+console.log(typeof minimo);
