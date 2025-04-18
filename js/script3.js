@@ -11,7 +11,8 @@ for (let i = 1; i <= 6; i++) {
 console.log(randomArray)
 
 
-//ESERCIZIO
+//ESERCIZIO 3
+// Creare un nuovo array con gli elementi in ordine inverso (senza usare .reverse()).
 
 const newArray = [];
 

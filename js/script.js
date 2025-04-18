@@ -13,7 +13,9 @@ for (let i = 1; i <= 6; i++) {
 
 console.log(randomArray)
 
-//ESERCIZIO
+//ESERCIZIO 1
+// Data un array di numeri, sommare solo quelli pari.
+
 
 let somma = 0
 let rigaSomma = ""

@@ -12,7 +12,8 @@ for (let i = 1; i <= 6; i++){
 }
 console.table(coloriRandom)
 
-//ESERCIZIO
+//ESERCIZIO 2
+// Contare quante volte appare il valore "rosso" in un array di stringhe.
 
 const ricerca = "rosso"
 // const ricerca = prompt("Dammi un colore da cercare")
