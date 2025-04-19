@@ -19,7 +19,7 @@ for (let i = 1; i <= numeroOggetti; i++) {
 console.table(randomArray)
 
 
-//ESERCIZIO 10
+//ESERCIZIO 11
 //Calcolare la media dei numeri, poi contare quanti sono sopra la media.
 
 let sommaTot = 0;
